@@ -1,109 +1,86 @@
-<h1 align="center">👋 Hi, I'm Dushyant Sharma</h1>
-<h3 align="center">🚀 Cloud | ☸️ DevOps | 🛠️ SRE | 👨‍💻 Software Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=440&lines=$+whoami;Dushyant+Sharma;Cloud+%7C+DevOps+%7C+SRE+Engineer;Always+learning+%F0%9F%93%9A+Always+building+%F0%9F%94%A5" alt="typing animation" />
+<!-- Profile View Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dushyantsharmma&label=Profile%20views&color=0e75b6&style=flat" alt="dushyantsharmma" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dushyant-27&label=Profile%20views&color=36bcf7&style=flat-square" alt="dushyant-27" />
-</p>
+<!-- Terminal Style Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Hello+World!+I+am+Dushyant+Sharma;DevOps+%7C+Cloud+%7C+Automation+Engineer;GCP+%7C+AWS+%7C+K8s+%7C+Terraform+%7C+Docker;Always+learning+and+building..." alt="Typing SVG" />
+</h1>
 
 ---
 
-### 🏅 Badges & Certifications
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Bootcamp%20Graduate-blue?logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Academy%20Graduate-orange?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-green?logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Palo%20Alto-Cloud%20Security-red?logo=paloaltonetworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dockerized-%E2%9C%94-lightblue?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20Lover-%E2%9C%94-black?logo=linux" />
-  <img src="https://img.shields.io/badge/Kubernetes-Learning-blue?logo=kubernetes" />
-</p>
+- 🎓 **Graduated & actively seeking full-time DevOps/Cloud roles**
+- 🔭 Currently enhancing my **cloud-native architecture and automation** skills
+- 💬 Ask me about **DevOps, AWS, GCP, Azure, Docker, K8s, CI/CD, Terraform**
+- 📄 [My Resume](https://drive.google.com/file/d/1Vg7Tt-kUlBXTMO00QaH3hDvViZAp4u02/view?usp=sharing)
+- 📫 Reach me at: **227dushyantsharma@gmail.com**
 
 ---
 
-### 🧑‍🚀 About Me
+## 🛠️ Skills & Tech Stack
 
-- 🎓 **Graduated B.E. in CSE – Cloud Computing** @ Chandigarh University
-- 👨‍💻 Actively seeking **Full-Time/Entry-Level roles** in **Cloud | DevOps | SRE | Software Engineering**
-- 🧰 DevOps Intern @ Elevate Labs – SRE, CI/CD, Monitoring, Infra as Code
-- ☁️ Google Cloud Bootcamp | AWS Academy | NPTEL (IIT-KGP)
-- 🧪 Built **AgroChain** – Blockchain-based Dapp for Farmers
-- 📈 Learning daily via **DevOps Zero to Hero (45 Days)**
-
----
-
-### 🚀 Projects
-
-| 🧪 Project Name                           | 🔧 Tech Stack                           |
-|------------------------------------------|------------------------------------------|
-| **AgroChain**                             | Blockchain, AWS, Firebase, React, Solidity |
-| **Banking System (React + Firebase)**     | React, Firebase, Authentication, Firestore |
-| **Docker Monitoring with Netdata**        | Docker, Netdata, Grafana, Linux           |
-| **CI/CD Pipelines**                       | GitHub Actions, Docker, Terraform         |
-
----
-
-### 🛠️ Tech Stack
-
-#### 👨‍💻 Programming & Web
-`Python` `Java` `JavaScript` `HTML5` `CSS3` `SQL`
-
-#### ☁️ Cloud & DevOps
-`AWS` `Google Cloud` `Azure (basic)`  
-`Docker` `Terraform` `CI/CD Pipelines` `Shell Scripting`  
-`Git & GitHub` `Netdata` `Kubernetes (learning)`
-
-#### 🧰 Tools & Monitoring
-`VS Code` `Linux` `Postman`  
-`Grafana` `Splunk` `Dynatrace` `Firebase`
-
-#### 💼 Soft Skills
-`Team Leadership` `Adaptability` `Communication` `Problem Solving`
-
----
-
-### 📜 Certifications
-
-- ✅ **Google Cloud Career Readiness Program (Bootcamp)**  
-- ✅ **AWS Academy Graduate – Cloud Foundations**  
-- ✅ **NPTEL Cloud Computing – IIT Kharagpur**  
-- ✅ **Palo Alto – Cloud Security Fundamentals**  
-- ✅ **Security Operations Fundamentals – Palo Alto**  
-- ✅ **Introduction to Generative AI – Google**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dushyant-27&show_icons=true&theme=radical" alt="stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dushyant-27&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyant-27&layout=compact&theme=radical" alt="langs" />
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect with Me
 
-- 📧 Email: **227dushyantsharma@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dushyantsharma27)  
-- 🌐 Portfolio: _Coming Soon..._  
-- 🧑‍💼 *Open to Work* | Bangalore | Pune | Noida | Remote
+<p align="left">
+  <a href="https://www.linkedin.com/in/dushyant-sharma-3619b420b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/dushyantshharmaa_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<p align="center"><i>“The best way to predict the future is to invent it.”</i> – <b>Alan Kay</b></p>
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dushyant-27&theme=react-dark&hide_border=true" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dushyantsharmma&theme=onedark&no-frame=true&column=7" alt="Trophies" />
+  </a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dushyantsharmma&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dushyantsharmma&theme=radical" alt="Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantsharmma&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🧪 Terminal Showcase
+
+> Simulating live terminal commands via [asciinema.org](https://asciinema.org)
+
+[![asciicast](https://asciinema.org/a/602473.svg)](https://asciinema.org/a/602473)
+
+Simulated commands:
+
+```bash
+$ docker run -d nginx
+$ kubectl apply -f deployment.yaml
+$ terraform init && terraform apply
