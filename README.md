@@ -1,6 +1,6 @@
 <!-- Typing SVG Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F700&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+%F0%9F%91%8B+I'm+Dushyant+Sharma;Cloud+%7C+DevOps+%7C+SRE+Enthusiast;Open+Source+Lover+%7C+Lifelong+Learner+%E2%9C%A8;Coder+by+day%2C+Hacker+by+night" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F700&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+%F0%9F%91%8B+I'm+Dushyant+Sharma;Cloud+%7C+DevOps+%7C+SRE+Enthusiast;Open+Source+Lover+%7C+Lifelong+Learner+;Coder+by+day%2C+Hacker+by+night" alt="Typing SVG" />
 </p>
 
 <h1 align="center">⚡ Dushyant Sharma ⚡</h1>
