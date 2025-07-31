@@ -18,10 +18,10 @@
 ## 💬 About Me
 
 ```yaml
-name: Dushyant Sharma
-role: Cloud/DevOps/SRE Engineer
-location: 🌏 India (Remote Friendly)
-email: 227dushyantsharma@gmail.com
+Name: Dushyant Sharma
+Role: Cloud/DevOps/SRE Engineer
+Location: 🌏 India (Remote Friendly)
+Email: 227dushyantsharma@gmail.com
 ```
 
 🚀 I'm a **Cloud Native Engineer** with a flair for infrastructure automation and scalable deployments. I'm passionate about writing reliable pipelines, building resilient systems, and contributing to open source.
