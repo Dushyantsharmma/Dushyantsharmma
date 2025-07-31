@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F700&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+%F0%9F%91%8B+I'm+Dushyant+Sharma;Cloud+%7C+DevOps+%7C+SRE+Enthusiast;Open+Source+Lover+%7C+Lifelong+Learner+%E2%9C%A8;Coder+by+day%2C+Hacker+by+night" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🟢⚡ Dushyant Sharma ⚡🟢</h1>
+<h1 align="center">⚡ Dushyant Sharma ⚡</h1>
 <h3 align="center">Cloud | DevOps | SRE | Automation | Developer</h3>
 
 
@@ -22,7 +22,6 @@ name: Dushyant Sharma
 role: Cloud/DevOps/SRE Engineer
 location: 🌏 India (Remote Friendly)
 email: 227dushyantsharma@gmail.com
-resume: View ↗
 ```
 
 🚀 I'm a **Cloud Native Engineer** with a flair for infrastructure automation and scalable deployments. I'm passionate about writing reliable pipelines, building resilient systems, and contributing to open source.
