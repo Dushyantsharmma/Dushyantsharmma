@@ -106,16 +106,33 @@ Email: 227dushyantsharma@gmail.com
 ---
 
 ## 📅 Tech Journey Timeline
+<div style="border:2px solid #00f700; border-radius:8px; padding:20px; font-family:monospace; background-color:#0a0a0a; color:#00f700;">
+2021
+- 🎓 Started B.E. in Cloud Computing @ Chandigarh University
+-  Foundation in CS fundamentals
+-  First exposure to cloud concepts
 
-```bash
-> 2021 - Started B.E. in Cloud Specialization @ Chandigarh University
-> 2022 - Built OOP + Java foundations | DSA
-> 2023 - Google Cloud Bootcamp | Real projects
-> 2024 - Terraform, CI/CD, Docker, Monitoring
-> 2025 - Internship | Advanced SRE practices | Applying full-time
-```
+2022
+- 💻 Programming & Web Development
+- Java, OOPs, DSA
+- Built static and dynamic websites
 
----
+2023
+- ☁️ Google Cloud Bootcamp & Real Projects
+-  Built AgroChain on Blockchain & Firebase
+-  Completed 8-week Google Cloud Bootcamp by GeeksforGeeks
+
+2024
+- ⚙️ DevOps & Infrastructure Mastery
+- Terraform, Docker, Kubernetes, CI/CD
+- Monitoring using Prometheus, Grafana
+- Beginner → Intermediate MLOps journey
+
+2025
+-  🚀 Internship & Cloud Automation
+-  DevOps Intern @ Elevate Labs (May–June 2025)
+-  Worked on GitHub Actions, Docker, Linux & AWS
+</div>
 
 ## 🏆 GitHub Trophies
 
