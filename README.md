@@ -33,7 +33,7 @@ Email: 227dushyantsharma@gmail.com
 - 🔍 Exploring: **Cloud Security and FinOps**
 - 🌱 Growth Mindset: Every day is a learning day!
 
-📄 [📂 Resume](https://drive.google.com/file/d/1Vg7Tt-kUlBXTMO00QaH3hDvViZAp4u02/view?usp=sharing)
+📄 [📂 Resume](https://drive.google.com/file/d/1OiWPRT7k8Dnv49D2T8Mux3J6Mir9kT1D/view?usp=drive_link)
 
 ---
 
